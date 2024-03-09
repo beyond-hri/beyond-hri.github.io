@@ -1,14 +1,14 @@
-# Nerfies
+# Beyond the Black Box
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository that contains source code for the [Beyond the Black Box website](https://beyond-hri.github.io).
 
 If you find Nerfies useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{park2021nerfies,
+  author    = {Amy Eguchi, Hortense Gerardo, and Robert Twomey},
+  title     = {Beyond the Black Box: Human Robot Interaction through Human Robot Performances},
+  journal   = {HRI &apos;24 Companion},
+  year      = {2024},
 }
 ```
 
